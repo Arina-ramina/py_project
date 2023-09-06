@@ -4,3 +4,8 @@ def summ_(a,b):
     c=a+b
     return c
     c = 0
+
+def subtraction (a,b):
+    c = a-b
+    return c
+    c = 0
